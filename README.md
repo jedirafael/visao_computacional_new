@@ -1,1 +1,1 @@
-# visao_computacional_new
+# Estudos de Visão Computacional
